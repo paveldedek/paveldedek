@@ -24,6 +24,6 @@ Here’s a quick overview of my main work and interests:
 
 
 📍 **Currently studying:** Mathematics @ EPFL  
-💡 **Interests:** Applied math, optimization, and signal processing  
+💡 **Interests:** Numerical analysis, optimization
 📫 **Contact:** [pavel.dedek@epfl.ch](mailto:pavel.dedek@epfl.ch)
 
