@@ -9,6 +9,7 @@ Here’s a quick overview of my main work and interests:
 🔹 **Numerical methods & Optimization**  
 - SVM for handwritten digit recognition (MATLAB)
 - Trust-regions for phase retrieval (MATLAB)
+- Model predictive control for robot navigation (MATLAB)
 - Ideal gas simulation (C++)
 - Finding optimal matrix multiplication algorithm (MATLAB)
 - Jupyter notebooks for my Advanced numerical analysis I course (Python)
